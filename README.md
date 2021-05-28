@@ -1,0 +1,2 @@
+#Explore UK Crime Geospatial Analysis
+This notebook will explore geospatial analysis using Pandas and GeoPandas. Analysis will be on London borough and crime data exploring patterns and trends and creates some crime rates maps in London.
